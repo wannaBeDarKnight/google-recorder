@@ -1,6 +1,6 @@
 #!/bin/sh
 
-APK_FILE="com.google.android.apps.recorder.11007013.apk"
+APK_FILE="com.google.android.apps.recorder_4.0.473637852-40004513_1dpi_1lang_2750b67f8047297f4534675442b2e2a1_apkmirror.com.apkm"
 APK_OUT_DIR="apk-out"
 DIST_APK_FILE="dist/google-recorder.apk"
 
